@@ -1,7 +1,0 @@
-{
-  "name": "meteo_lab",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}
